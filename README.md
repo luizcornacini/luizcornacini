@@ -3,7 +3,7 @@
     <span>Luiz Carlos</span>
 </h1>
 
-<p align="justify">Sou recém-formado em ciênciad da computação, tenho conhecimentos em desenvolvimento web utilizando: Python e Django, atualmente estou cursando o bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot da <a href="https://www.dio.me/"> DIO-Digital innovation one.<a/> No meu tempo livre faço algumas lives jogando na Twitch.
+<p align="justify">Sou recém-formado em ciências da computação, tenho conhecimentos em desenvolvimento web utilizando: Python e Django, atualmente estou cursando o bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot da <a href="https://www.dio.me/"> DIO-Digital innovation one.<a/> No meu tempo livre faço algumas lives jogando na Twitch.
 <br>
 <br>
 
